@@ -1,0 +1,28 @@
+name: Nebulatest
+favicon: null
+layout_spectrum: 0.6147691358346492
+typography_spectrum: 0.6615370167419314
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3007122848648578
+  lightness: 0.9661181711126119
+  saturation: 0.8160588371101767
+  rhythmicContrast: 0.04782426031306386
+purpose: []
